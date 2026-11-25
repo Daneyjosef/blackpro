@@ -1,0 +1,31 @@
+{
+  "name": "BlackPro Homes",
+  "shortName": "BlackPro",
+  "tagline": "Luxury, curated in black.",
+  "description": "BlackPro Homes offers luxury serviced short-let apartments, residential and commercial interior design, and fine furniture and office furnishing in Lagos, Nigeria.",
+  "url": "https://www.blackprohomes.com",
+  "contact": {
+    "phone": "[ADD PHONE NUMBER]",
+    "phoneHref": "",
+    "whatsapp": "",
+    "whatsappDisplay": "[ADD WHATSAPP NUMBER]",
+    "email": "[ADD EMAIL ADDRESS]",
+    "address": "[ADD OFFICE ADDRESS], Lagos, Nigeria",
+    "mapQuery": "Lagos, Nigeria"
+  },
+  "hours": [
+    { "days": "Monday – Friday", "time": "[ADD HOURS]" },
+    { "days": "Saturday", "time": "[ADD HOURS]" },
+    { "days": "Sunday", "time": "[ADD HOURS]" }
+  ],
+  "socials": {
+    "instagram": "",
+    "instagramHandle": "[ADD INSTAGRAM HANDLE]",
+    "facebook": "",
+    "tiktok": "",
+    "linkedin": ""
+  },
+  "analytics": {
+    "gaMeasurementId": ""
+  }
+}

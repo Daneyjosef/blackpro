@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "onyx-shell-chair",
+  "name": "Onyx Shell Chair",
+  "category": "dining",
+  "summary": "A moulded black shell chair with a padded seat.",
+  "description": "Light, stackable and easy to clean, this chair works around a dining table, at a meeting table or in a cafe.",
+  "image": {
+    "src": "/media/furniture/dining/onyx-shell-chair.jpg",
+    "alt": "Black moulded shell chair with a padded seat"
+  },
+  "materials": [
+    "Moulded polypropylene",
+    "Padded leatherette seat",
+    "Timber legs"
+  ],
+  "dimensions": "W 48 × D 53 × H 82 cm",
+  "leadTime": "1–2 weeks",
+  "priceFrom": null,
+  "featured": true
+}

@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "six-seater-dining-set",
+  "name": "Six-Seater Dining Set",
+  "category": "dining",
+  "summary": "A white dining table with six green velvet chairs.",
+  "description": "A statement dining set for entertaining, with a durable lacquered tabletop and fully upholstered chairs.",
+  "image": {
+    "src": "/media/furniture/dining/six-seater-dining-set.jpg",
+    "alt": "White dining table with six green velvet chairs"
+  },
+  "materials": [
+    "Lacquered tabletop",
+    "Velvet upholstery",
+    "Hardwood legs"
+  ],
+  "dimensions": "Table W 180 × D 90 × H 76 cm",
+  "leadTime": "4–6 weeks",
+  "priceFrom": null,
+  "featured": false
+}

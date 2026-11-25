@@ -1,0 +1,36 @@
+{
+  "sample": true,
+  "slug": "ikoyi-master-suite",
+  "title": "Ikoyi Master Suite",
+  "category": "residential",
+  "location": "Ikoyi, Lagos",
+  "year": "2025",
+  "summary": "A restful master bedroom with botanical accents, layered textiles and bespoke storage.",
+  "description": "Our client wanted a retreat from the city. We softened the palette, added a woven pendant and greenery, and designed concealed storage so the room stays uncluttered.",
+  "scope": [
+    "Concept design",
+    "Custom joinery",
+    "Soft furnishings"
+  ],
+  "featured": true,
+  "cover": {
+    "src": "/media/interiors/ikoyi-master-suite/01.jpg",
+    "alt": "Bedroom with layered cushions, hanging plants and a woven pendant light"
+  },
+  "beforeAfter": {
+    "before": {
+      "src": "/media/interiors/ikoyi-master-suite/before.jpg",
+      "alt": "The bedroom before the redesign"
+    },
+    "after": {
+      "src": "/media/interiors/ikoyi-master-suite/01.jpg",
+      "alt": "The bedroom after the redesign"
+    }
+  },
+  "images": [
+    {
+      "src": "/media/interiors/ikoyi-master-suite/02.jpg",
+      "alt": "White sideboard beneath a round mirror beside a tall plant"
+    }
+  ]
+}

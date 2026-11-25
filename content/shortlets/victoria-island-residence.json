@@ -1,0 +1,22 @@
+{
+  "sample": true,
+  "slug": "victoria-island-residence",
+  "name": "Victoria Island Residence",
+  "location": "Victoria Island",
+  "summary": "A light-filled two-bedroom residence moments from VI's restaurants and business district.",
+  "description": "Tall windows, gallery walls and a relaxed palette of tan leather and white linen make this residence feel like home from the moment you arrive. Ideal for families and small groups visiting Lagos for business or leisure.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 4,
+  "pricePerNight": 220000,
+  "featured": true,
+  "images": [
+    { "src": "/media/shortlets/victoria-island-residence/01.jpg", "alt": "Bright living room with a leather sofa and framed photo wall" },
+    { "src": "/media/shortlets/victoria-island-residence/02.jpg", "alt": "Open living and dining area with large windows and city views" },
+    { "src": "/media/shortlets/victoria-island-residence/03.jpg", "alt": "Bedroom with a tufted headboard, table lamps and an upholstered bench" },
+    { "src": "/media/shortlets/victoria-island-residence/04.jpg", "alt": "Calm white bedroom with a black accent chair" }
+  ],
+  "amenities": ["24/7 power", "High-speed Wi-Fi", "Smart TV with streaming", "Fully equipped kitchen", "Air conditioning throughout", "Washer and dryer", "Secure parking", "24-hour security", "Housekeeping"],
+  "houseRules": ["Check-in from 2:00 pm, check-out by 12:00 noon", "No smoking indoors", "No parties or events", "Valid ID required at check-in", "Caution deposit required, refundable after inspection"],
+  "mapQuery": "Victoria Island, Lagos, Nigeria"
+}

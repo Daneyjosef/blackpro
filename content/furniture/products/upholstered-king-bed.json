@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "upholstered-king-bed",
+  "name": "Upholstered King Bed",
+  "category": "bedroom",
+  "summary": "A hotel-style king bed with a tall panelled headboard.",
+  "description": "The same style of bed we specify for our short-let apartments, built for comfort and durability with a padded headboard and solid slatted base.",
+  "image": {
+    "src": "/media/furniture/bedroom/upholstered-king-bed.jpg",
+    "alt": "King bed with a grey panelled headboard and white linen"
+  },
+  "materials": [
+    "Fabric upholstery",
+    "Hardwood frame",
+    "Slatted base"
+  ],
+  "dimensions": "W 200 × L 215 × H 140 cm",
+  "leadTime": "3–5 weeks",
+  "priceFrom": null,
+  "featured": true
+}

@@ -1,0 +1,20 @@
+{
+  "sample": true,
+  "slug": "oak-bar-stool",
+  "name": "Oak Bar Stool",
+  "category": "custom-made",
+  "summary": "A minimalist bar stool made to your counter height.",
+  "description": "Crafted in solid timber with a hand-cut grip, made to measure for kitchen islands and bars.",
+  "image": {
+    "src": "/media/furniture/custom-made/oak-bar-stool.jpg",
+    "alt": "Pale timber bar stool against a blue background"
+  },
+  "materials": [
+    "Solid timber",
+    "Hand-applied oil finish"
+  ],
+  "dimensions": "Made to measure",
+  "leadTime": "3–4 weeks",
+  "priceFrom": null,
+  "featured": true
+}

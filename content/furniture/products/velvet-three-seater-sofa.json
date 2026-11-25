@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "velvet-three-seater-sofa",
+  "name": "Velvet Three-Seater Sofa",
+  "category": "living-room",
+  "summary": "A deep-seated velvet sofa with tapered timber legs.",
+  "description": "Generous proportions, high-density foam cushions and a soft velvet finish make this an easy centrepiece for any living room. Available in a range of fabrics and colours.",
+  "image": {
+    "src": "/media/furniture/living-room/velvet-three-seater-sofa.jpg",
+    "alt": "Deep green velvet three-seater sofa with timber legs"
+  },
+  "materials": [
+    "Velvet upholstery",
+    "Solid hardwood frame",
+    "Timber legs"
+  ],
+  "dimensions": "W 210 × D 90 × H 85 cm",
+  "leadTime": "3–4 weeks",
+  "priceFrom": null,
+  "featured": true
+}

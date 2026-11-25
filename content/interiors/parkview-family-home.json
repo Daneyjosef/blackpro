@@ -1,0 +1,41 @@
+{
+  "sample": true,
+  "slug": "parkview-family-home",
+  "title": "Parkview Family Home",
+  "category": "residential",
+  "location": "Parkview Estate, Ikoyi",
+  "year": "2024",
+  "summary": "A full-home refresh with a statement dining room and joyful, plant-filled living spaces.",
+  "description": "Across the ground floor we introduced deep green velvet, brass details and generous greenery, creating rooms that feel elegant for entertaining and relaxed for everyday family life.",
+  "scope": [
+    "Full-home design",
+    "Furniture supply",
+    "Styling",
+    "Project management"
+  ],
+  "featured": false,
+  "cover": {
+    "src": "/media/interiors/parkview-family-home/01.jpg",
+    "alt": "Dining room with green velvet chairs, a white table and round mirror"
+  },
+  "beforeAfter": {
+    "before": {
+      "src": "/media/interiors/parkview-family-home/before.jpg",
+      "alt": "The dining room before the redesign"
+    },
+    "after": {
+      "src": "/media/interiors/parkview-family-home/01.jpg",
+      "alt": "The dining room after the redesign"
+    }
+  },
+  "images": [
+    {
+      "src": "/media/interiors/parkview-family-home/02.jpg",
+      "alt": "Living room with a leather sofa, pink armchairs and macrame wall hanging"
+    },
+    {
+      "src": "/media/interiors/parkview-family-home/03.jpg",
+      "alt": "Sunny living room with a blue sofa and herringbone floor"
+    }
+  ]
+}

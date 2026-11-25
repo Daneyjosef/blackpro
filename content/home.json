@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "eyebrow": "Lagos · Short-lets · Interiors · Furniture",
+    "title": "Spaces that speak in quiet luxury.",
+    "subtitle": "Serviced apartments for unforgettable stays, interiors designed around you, and furniture made to last, all under one name.",
+    "poster": "/media/hero/hero-poster.jpg",
+    "posterAlt": "A modern two-storey home glowing with warm interior light at dusk",
+    "videoMp4": "",
+    "videoWebm": ""
+  },
+  "intro": {
+    "eyebrow": "What we do",
+    "title": "Three disciplines. One uncompromising standard.",
+    "body": "From the apartment you check into, to the room you come home to, to the office your team works in, BlackPro Homes brings the same eye for detail to every space we touch."
+  },
+  "services": [
+    {
+      "number": "01",
+      "title": "Short-let Apartments",
+      "body": "Fully serviced luxury apartments across Lagos' most sought-after addresses, for a night, a week or a season.",
+      "image": "/media/shortlets/ikoyi-skyline-penthouse/01.jpg",
+      "alt": "Dark, elegant bedroom with a tufted bed and city views",
+      "href": "/shortlets/",
+      "cta": "Book a stay"
+    },
+    {
+      "number": "02",
+      "title": "Interior Design",
+      "body": "Residential and commercial interiors, from a single consultation to full project management and handover.",
+      "image": "/media/interiors/lekki-duplex-living/01.jpg",
+      "alt": "Warm, styled living room with a grey sofa and timber coffee table",
+      "href": "/interiors/",
+      "cta": "Design my space"
+    },
+    {
+      "number": "03",
+      "title": "Furniture & Office",
+      "body": "Statement home furniture, custom-made pieces and complete office fit-outs, sourced and installed by our team.",
+      "image": "/media/furniture/fit-outs/vi-corporate-headquarters.jpg",
+      "alt": "Bright open-plan office with dining tables and pendant lights",
+      "href": "/furniture/",
+      "cta": "Shop furniture"
+    }
+  ],
+  "shortlets": {
+    "eyebrow": "Short-let apartments",
+    "title": "Stay at Lagos' most coveted addresses.",
+    "body": "Serviced apartments with hotel-grade linens, reliable power and attentive guest support."
+  },
+  "portfolio": {
+    "eyebrow": "Interior design",
+    "title": "Transformations, not just makeovers.",
+    "body": "Drag the slider to see how our team reimagines a space, from the first sketch to the final cushion.",
+    "beforeAfterProject": "lekki-duplex-living"
+  },
+  "furniture": {
+    "eyebrow": "Furniture & office furnishing",
+    "title": "Pieces chosen to be lived with.",
+    "body": "Living, bedroom, dining and office furniture, plus custom pieces made to your measurements.",
+    "fitOut": {
+      "title": "Office fit-outs that work as hard as you do.",
+      "body": "Workstations, executive suites, meeting rooms and breakout spaces, planned, supplied and installed end to end.",
+      "image": "/media/furniture/fit-outs/vi-corporate-headquarters.jpg",
+      "alt": "Modern open-plan office with long tables and black pendant lights"
+    }
+  },
+  "why": {
+    "eyebrow": "Why BlackPro",
+    "title": "The detail is the difference.",
+    "stats": [
+      { "value": "[00]", "label": "Apartments under management" },
+      { "value": "[00]", "label": "Interior projects delivered" },
+      { "value": "[00]", "label": "Offices furnished" },
+      { "value": "[00]", "label": "Years in business" }
+    ],
+    "points": [
+      {
+        "title": "One team, end to end",
+        "body": "Design, furniture supply and installation handled in-house, so nothing gets lost between contractors."
+      },
+      {
+        "title": "Hotel-grade service",
+        "body": "Professionally cleaned, fully stocked apartments with responsive guest support throughout your stay."
+      },
+      {
+        "title": "Transparent pricing",
+        "body": "Clear quotes in naira with no surprise extras, agreed before any work begins."
+      },
+      {
+        "title": "Built for Lagos",
+        "body": "Power backup, security and finishes chosen to perform in the city's climate and pace."
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "[Sample review] Every detail of the apartment was considered, from the linens to the lighting. It felt like checking into a boutique hotel.",
+      "name": "[Guest name]",
+      "context": "Short-let guest"
+    },
+    {
+      "quote": "[Sample review] The team understood exactly what we wanted for our home and delivered it on schedule. The finish is impeccable.",
+      "name": "[Client name]",
+      "context": "Residential interior client"
+    },
+    {
+      "quote": "[Sample review] Our new office has completely changed how the team works. Planning, furniture and installation were seamless.",
+      "name": "[Client name]",
+      "context": "Office fit-out client"
+    }
+  ],
+  "partners": ["[Client logo]", "[Client logo]", "[Client logo]", "[Client logo]", "[Client logo]", "[Client logo]"],
+  "gallery": [
+    { "src": "/media/shortlets/banana-island-pool-villa/01.jpg", "alt": "White modern villa with a long swimming pool" },
+    { "src": "/media/interiors/parkview-family-home/01.jpg", "alt": "Dining room with green velvet chairs and a round mirror" },
+    { "src": "/media/shortlets/lekki-signature-suite/01.jpg", "alt": "Warmly lit hotel-style bedroom with timber panelling" },
+    { "src": "/media/furniture/living-room/sculpted-lounge-armchair.jpg", "alt": "Mustard lounge armchair beside a brass floor lamp" },
+    { "src": "/media/interiors/ikoyi-master-suite/01.jpg", "alt": "Bedroom with layered cushions, plants and woven pendant light" },
+    { "src": "/media/shortlets/ikoyi-skyline-penthouse/02.jpg", "alt": "Open-plan living room with a white sofa and timber feature wall" }
+  ],
+  "cta": {
+    "title": "Ready when you are.",
+    "body": "Book a stay, start a design project or request a furniture quote. Tell us what you need and we'll take it from there.",
+    "image": "/media/shortlets/banana-island-pool-villa/02.jpg",
+    "alt": "Glass-walled living space opening onto a pool terrace"
+  }
+}

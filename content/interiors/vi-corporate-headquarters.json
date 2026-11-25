@@ -1,0 +1,41 @@
+{
+  "sample": true,
+  "slug": "vi-corporate-headquarters",
+  "title": "VI Corporate Headquarters",
+  "category": "commercial",
+  "location": "Victoria Island, Lagos",
+  "year": "2024",
+  "summary": "A bright, flexible head office with breakout lounges, collaboration tables and quiet zones.",
+  "description": "We planned and furnished a full office floor for a growing professional services firm, balancing open collaboration areas with focused work zones and a welcoming reception lounge.",
+  "scope": [
+    "Workplace planning",
+    "Office furniture supply",
+    "Installation",
+    "Project management"
+  ],
+  "featured": true,
+  "cover": {
+    "src": "/media/interiors/vi-corporate-headquarters/01.jpg",
+    "alt": "Office breakout lounge with white chairs, a teal accent seat and a black floor lamp"
+  },
+  "beforeAfter": {
+    "before": {
+      "src": "/media/interiors/vi-corporate-headquarters/before.jpg",
+      "alt": "The office lounge before the fit-out"
+    },
+    "after": {
+      "src": "/media/interiors/vi-corporate-headquarters/01.jpg",
+      "alt": "The office lounge after the fit-out"
+    }
+  },
+  "images": [
+    {
+      "src": "/media/interiors/vi-corporate-headquarters/02.jpg",
+      "alt": "Open-plan office with long tables beneath black pendant lights"
+    },
+    {
+      "src": "/media/interiors/vi-corporate-headquarters/03.jpg",
+      "alt": "Brick-walled lounge with grey sofas and a long bar counter"
+    }
+  ]
+}

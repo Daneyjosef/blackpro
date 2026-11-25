@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "living-room",
+    "name": "Living Room",
+    "description": "Sofas, armchairs, coffee tables and media units."
+  },
+  {
+    "slug": "bedroom",
+    "name": "Bedroom",
+    "description": "Beds, headboards, bedside tables and wardrobes."
+  },
+  {
+    "slug": "dining",
+    "name": "Dining",
+    "description": "Dining tables, chairs, sideboards and bar stools."
+  },
+  {
+    "slug": "office",
+    "name": "Office",
+    "description": "Desks, task chairs, workstations and meeting tables."
+  },
+  {
+    "slug": "custom-made",
+    "name": "Custom-made",
+    "description": "Pieces built to your measurements and finishes."
+  }
+]

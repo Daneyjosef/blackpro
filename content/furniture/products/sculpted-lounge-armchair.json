@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "sculpted-lounge-armchair",
+  "name": "Sculpted Lounge Armchair",
+  "category": "living-room",
+  "summary": "A curved, mid-century armchair for reading corners and bedrooms.",
+  "description": "Rounded arms and a supportive back make this a favourite for reading nooks. Upholstered to order in your choice of fabric.",
+  "image": {
+    "src": "/media/furniture/living-room/sculpted-lounge-armchair.jpg",
+    "alt": "Mustard upholstered armchair beside a brass floor lamp"
+  },
+  "materials": [
+    "Woven fabric",
+    "Hardwood frame",
+    "Black metal legs"
+  ],
+  "dimensions": "W 75 × D 80 × H 82 cm",
+  "leadTime": "2–3 weeks",
+  "priceFrom": null,
+  "featured": true
+}

@@ -1,0 +1,41 @@
+{
+  "sample": true,
+  "slug": "lekki-duplex-living",
+  "title": "Lekki Duplex Living",
+  "category": "residential",
+  "location": "Lekki, Lagos",
+  "year": "2025",
+  "summary": "A calm, layered living space for a young family, built around natural textures and soft daylight.",
+  "description": "The brief was a family living room that could host guests without feeling formal. We opened up the layout, introduced a low-slung sofa, warm timber and woven accents, and planned lighting in three layers for day, evening and entertaining.",
+  "scope": [
+    "Space planning",
+    "Furniture supply",
+    "Lighting design",
+    "Styling"
+  ],
+  "featured": true,
+  "cover": {
+    "src": "/media/interiors/lekki-duplex-living/01.jpg",
+    "alt": "Living room with a grey sofa, timber coffee table and arched floor lamp"
+  },
+  "beforeAfter": {
+    "before": {
+      "src": "/media/interiors/lekki-duplex-living/before.jpg",
+      "alt": "The living room before the redesign"
+    },
+    "after": {
+      "src": "/media/interiors/lekki-duplex-living/01.jpg",
+      "alt": "The living room after the redesign"
+    }
+  },
+  "images": [
+    {
+      "src": "/media/interiors/lekki-duplex-living/02.jpg",
+      "alt": "Neutral sectional sofa with a round coffee table and wall clock"
+    },
+    {
+      "src": "/media/interiors/lekki-duplex-living/03.jpg",
+      "alt": "Entryway with a rattan sideboard, round mirror and orange armchair"
+    }
+  ]
+}

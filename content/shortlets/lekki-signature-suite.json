@@ -1,0 +1,22 @@
+{
+  "sample": true,
+  "slug": "lekki-signature-suite",
+  "name": "Lekki Signature Suite",
+  "location": "Lekki Phase 1",
+  "summary": "A warm, hotel-style one-bedroom suite with timber panelling and a garden-facing balcony.",
+  "description": "Designed for business travellers and couples, the Signature Suite pairs warm timber and soft lighting with crisp hotel-grade linens. A compact kitchen, dedicated workspace and fast Wi-Fi make longer stays effortless.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 2,
+  "pricePerNight": 120000,
+  "featured": true,
+  "images": [
+    { "src": "/media/shortlets/lekki-signature-suite/01.jpg", "alt": "Warmly lit bedroom with timber panelling and green cushions" },
+    { "src": "/media/shortlets/lekki-signature-suite/02.jpg", "alt": "Bedroom opening onto a sunlit balcony through glass doors" },
+    { "src": "/media/shortlets/lekki-signature-suite/03.jpg", "alt": "Bed framed by a dark upholstered headboard and brass wall lights" },
+    { "src": "/media/shortlets/lekki-signature-suite/04.jpg", "alt": "Neutral bedroom with a grey headboard and bedside lamps" }
+  ],
+  "amenities": ["24/7 power", "High-speed Wi-Fi", "Smart TV with streaming", "Kitchenette", "Air conditioning", "Workspace", "Balcony", "24-hour security", "Housekeeping"],
+  "houseRules": ["Check-in from 2:00 pm, check-out by 12:00 noon", "No smoking indoors", "No parties or events", "Valid ID required at check-in", "Caution deposit required, refundable after inspection"],
+  "mapQuery": "Lekki Phase 1, Lagos, Nigeria"
+}

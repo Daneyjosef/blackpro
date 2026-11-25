@@ -1,0 +1,29 @@
+[
+  {
+    "sample": true,
+    "title": "VI Corporate Headquarters",
+    "summary": "Full-floor fit-out with open workstations, boardrooms and a client lounge.",
+    "image": {
+      "src": "/media/furniture/fit-outs/vi-corporate-headquarters.jpg",
+      "alt": "Open-plan office with long tables and black pendant lights"
+    }
+  },
+  {
+    "sample": true,
+    "title": "Creative Studio Lounge",
+    "summary": "Breakout lounge and collaboration zone for a design agency.",
+    "image": {
+      "src": "/media/furniture/fit-outs/creative-studio-lounge.jpg",
+      "alt": "Bright office lounge with white chairs and a black floor lamp"
+    }
+  },
+  {
+    "sample": true,
+    "title": "Co-working Hub",
+    "summary": "Hot desks, soft seating and a cafe bar for a members' workspace.",
+    "image": {
+      "src": "/media/furniture/fit-outs/coworking-hub.jpg",
+      "alt": "Brick-walled co-working space with grey sofas and a long bar"
+    }
+  }
+]

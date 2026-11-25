@@ -1,0 +1,22 @@
+{
+  "sample": true,
+  "slug": "banana-island-pool-villa",
+  "name": "Banana Island Pool Villa",
+  "location": "Banana Island",
+  "summary": "A four-bedroom villa with a private pool, glass-walled living spaces and room for the whole family.",
+  "description": "Crisp white architecture, a long private pool and indoor-outdoor living make this our most exclusive stay. Perfect for family holidays, milestone celebrations by arrangement, and executives who need space and privacy.",
+  "bedrooms": 4,
+  "bathrooms": 5,
+  "guests": 8,
+  "pricePerNight": 850000,
+  "featured": true,
+  "images": [
+    { "src": "/media/shortlets/banana-island-pool-villa/01.jpg", "alt": "White modern villa with timber soffits and a long swimming pool" },
+    { "src": "/media/shortlets/banana-island-pool-villa/02.jpg", "alt": "Glass-walled living space opening onto the pool terrace" },
+    { "src": "/media/shortlets/banana-island-pool-villa/03.jpg", "alt": "Bedroom with a colourful artwork and orange upholstered stools" },
+    { "src": "/media/shortlets/banana-island-pool-villa/04.jpg", "alt": "Living room with a grey sofa, fireplace wall and black chandelier" }
+  ],
+  "amenities": ["24/7 power", "Private swimming pool", "High-speed Wi-Fi", "Smart TVs with streaming", "Chef's kitchen", "Air conditioning throughout", "Garden and terrace", "Parking for 4 cars", "24-hour security", "Daily housekeeping"],
+  "houseRules": ["Check-in from 2:00 pm, check-out by 12:00 noon", "No smoking indoors", "Events only by prior written arrangement", "Valid ID required at check-in", "Caution deposit required, refundable after inspection"],
+  "mapQuery": "Banana Island, Ikoyi, Lagos, Nigeria"
+}

@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "terracotta-loveseat",
+  "name": "Terracotta Loveseat",
+  "category": "living-room",
+  "summary": "A compact two-seater with plump cushions.",
+  "description": "Ideal for apartments and smaller living rooms, with all the comfort of a full sofa in a smaller footprint.",
+  "image": {
+    "src": "/media/furniture/living-room/terracotta-loveseat.jpg",
+    "alt": "Close-up of a terracotta two-seater sofa with a pink cushion"
+  },
+  "materials": [
+    "Woven fabric",
+    "Hardwood frame",
+    "Oak legs"
+  ],
+  "dimensions": "W 160 × D 85 × H 80 cm",
+  "leadTime": "3–4 weeks",
+  "priceFrom": null,
+  "featured": false
+}

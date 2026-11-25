@@ -1,0 +1,22 @@
+{
+  "sample": true,
+  "slug": "ikoyi-skyline-penthouse",
+  "name": "Ikoyi Skyline Penthouse",
+  "location": "Ikoyi",
+  "summary": "A dramatic three-bedroom penthouse with floor-to-ceiling views over the Lagos skyline.",
+  "description": "Rich charcoal walls, layered lighting and a sculptural upholstered bed set the tone in this top-floor residence. The open-plan living and dining space flows onto a private terrace, and every bedroom has its own en-suite bathroom.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 6,
+  "pricePerNight": 450000,
+  "featured": true,
+  "images": [
+    { "src": "/media/shortlets/ikoyi-skyline-penthouse/01.jpg", "alt": "Master bedroom with charcoal walls, a white channel-tufted bed and city views" },
+    { "src": "/media/shortlets/ikoyi-skyline-penthouse/02.jpg", "alt": "Open-plan living room with a white sofa and timber feature wall" },
+    { "src": "/media/shortlets/ikoyi-skyline-penthouse/03.jpg", "alt": "Double-height lounge with a timber staircase and blue cushions" },
+    { "src": "/media/shortlets/ikoyi-skyline-penthouse/04.jpg", "alt": "Grey living room with a round coffee table and black shelving" }
+  ],
+  "amenities": ["24/7 power", "High-speed Wi-Fi", "Smart TV with streaming", "Fully equipped kitchen", "Air conditioning throughout", "Private terrace", "Secure parking", "24-hour security", "Housekeeping", "Gym access"],
+  "houseRules": ["Check-in from 2:00 pm, check-out by 12:00 noon", "No smoking indoors", "No parties or events", "Valid ID required at check-in", "Caution deposit required, refundable after inspection"],
+  "mapQuery": "Ikoyi, Lagos, Nigeria"
+}

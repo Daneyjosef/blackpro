@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "open-plan-workstations",
+  "name": "Open-Plan Workstations",
+  "category": "office",
+  "summary": "Modular bench workstations for teams of any size.",
+  "description": "Configurable desking with integrated power and privacy screens, specified and installed to your floor plan.",
+  "image": {
+    "src": "/media/furniture/office/open-plan-workstations.jpg",
+    "alt": "Long glass-partitioned office corridor with dark walls"
+  },
+  "materials": [
+    "Steel frame",
+    "Melamine tops",
+    "Acoustic screens"
+  ],
+  "dimensions": "Configured to your floor plan",
+  "leadTime": "4–6 weeks",
+  "priceFrom": null,
+  "featured": false
+}

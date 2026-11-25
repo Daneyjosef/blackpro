@@ -1,0 +1,21 @@
+{
+  "sample": true,
+  "slug": "executive-sit-stand-desk",
+  "name": "Executive Sit-Stand Desk",
+  "category": "office",
+  "summary": "A height-adjustable desk for focused, healthier working.",
+  "description": "Electric height adjustment, cable management and a scratch-resistant top. Pairs with our ergonomic task chairs.",
+  "image": {
+    "src": "/media/furniture/office/executive-sit-stand-desk.jpg",
+    "alt": "White sit-stand desk with an ergonomic chair and computer"
+  },
+  "materials": [
+    "Steel frame",
+    "Laminate top",
+    "Dual motors"
+  ],
+  "dimensions": "W 160 × D 80 × H 65–130 cm",
+  "leadTime": "2–3 weeks",
+  "priceFrom": null,
+  "featured": true
+}
